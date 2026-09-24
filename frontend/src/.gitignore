@@ -1,9 +1,0 @@
-# dépendances (réinstallables avec npm install)
-node_modules/
-# secrets — ne JAMAIS versionner
-.env
-# build du front
-frontend/dist/
-# logs et divers
-*.log
-.DS_Store
